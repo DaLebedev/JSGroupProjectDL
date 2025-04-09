@@ -7,6 +7,30 @@
       "email": "michael.s@employeehub.com",
       "role": "Manager",
       "photoUrl": "https://static.wikia.nocookie.net/theoffice/images/f/f4/Steve_Carell.png/revision/latest?cb=20200413231752"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "bio": "Added to test grid. Lorem ipsum dolor consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor placerat.",
+      "email": "John.d@employeehub.com",
+      "role": "Supervisor",
+      "photoUrl": "https://static.wikia.nocookie.net/theoffice/images/f/f4/Steve_Carell.png/revision/latest?cb=20200413231752"
+    },
+    {
+      "id": 3,
+      "name": "Jane Doe",
+      "bio": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Amet consectetur adipiscing elit quisque faucibus ex sapien. Quisque faucibus ex sapien vitae pellentesque sem placerat. Vitae pellentesque sem placerat.",
+      "email": "Jane.d@employeehub.com",
+      "role": "Cashier",
+      "photoUrl": "https://static.wikia.nocookie.net/theoffice/images/f/f4/Steve_Carell.png/revision/latest?cb=20200413231752"
+    },
+    {
+      "id": 4,
+      "name": "Daniel Lebedev",
+      "bio": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae.",
+      "email": "dalebedev@dmacc.edu",
+      "role": "Developer",
+      "photoUrl": "https://static.wikia.nocookie.net/theoffice/images/f/f4/Steve_Carell.png/revision/latest?cb=20200413231752"
     }
   ]
 }
